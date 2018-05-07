@@ -1,0 +1,20 @@
+{
+  "name": "1512341-15123393-1512411",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "config": "^1.30.0",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "q": "^1.5.1"
+  }
+}
